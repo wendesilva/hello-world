@@ -1,8 +1,5 @@
 # hello-world
-Test repository
 
+Hi Humans!
 
-Hi!
-
-This is only a message of test!
-
+Wendel here, I like SongPop and coffee.
